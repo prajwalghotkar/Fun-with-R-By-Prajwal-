@@ -25,6 +25,5 @@
   the data for each species. Facet functions let us create a separate plot for each species. Check this out. Facets are so great. we can even put text on our plot to point 
   to specific data or communicate a message.
   ![Rplot08](https://github.com/user-attachments/assets/34662cb5-62ae-494a-81ed-bede2d43cb20)
-  "C:\Users\HP\Desktop\Deep Learning with Prajwal\Prajwal.pdf"
   ![Rplot](https://github.com/user-attachments/assets/f72d77c0-927b-4fe6-940d-f7b3c7be56a3)
 
