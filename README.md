@@ -1,4 +1,4 @@
-# Fun with R (By Prajwal)
+# Fun with R 
 
 * Let's start by loading a library and getting a dataset to work with. we can use the palmer penguins dataset, which contains size measurements for three penguin species
   that live on the palmer Archipelago in Antarctica. This include data on stuff like body mass, flipper length and bill length. The dataset has 344 rows of information sorted
